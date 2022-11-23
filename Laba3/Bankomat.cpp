@@ -1,7 +1,3 @@
-//
-// Created by danila on 16.11.22.
-//
-
 #include "Bankomat.h"
 #include <iostream>
 #include <utility>

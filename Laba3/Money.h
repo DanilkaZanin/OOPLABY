@@ -1,7 +1,3 @@
-//
-// Created by danila on 24.11.22.
-//
-
 #ifndef OOPLABY_MONEY_H
 #define OOPLABY_MONEY_H
 

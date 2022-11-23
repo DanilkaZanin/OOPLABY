@@ -1,11 +1,7 @@
-//
-// Created by danila on 24.11.22.
-//
-
 #include <string>
 #include "Money.h"
 
-Money::Money()= default;
+Money::Money() = default;
 
 Money::Money(std::string object) {
     stringToMoney(object);
@@ -133,15 +129,15 @@ Money Money::operator+(std::string str) {
 }
 
 Money Money::operator-(std::string str) {
-    /*if(!isOperationOk(str)){
-        std::cout << "Нет достаточного количества купюр! " << '\n';
-    }*/
+
     std::pair<int, int> pair = takeRublesAndPennies(std::move(str));
+
     int r = pair.first ,p = pair.second;
     int r1 = r, p1 = p;
 
     int value = 0;
     int i = findLvlRubles(r1);
+
     while(r > value){
         if(i == -1)
             break;
