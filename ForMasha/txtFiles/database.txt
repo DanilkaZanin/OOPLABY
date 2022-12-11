@@ -1,0 +1,8 @@
+Kiseleva Maria Sergeevna;Manager;19500.00;2003;
+Gurkin Nik Valentinovich;Lamp;55000.36;2000;
+Park Sanya Valer'evna;Admin;160782.34;2003;
+Smagin Daniel' Alexovich;Carpet;78000.00;2003;
+Barsuk Nikita Miha'lovich;Brick;500040.45;2003
+Poryadych Sanya Vyacheslavovich;Turkish carpet;9153.22;2003;
+Boyakova Ksenia Ivanovna;Senior manager;67916.25;2003;
+Gulicheva Lera Valer'evna;Christmas tree;26792.56;2003;
